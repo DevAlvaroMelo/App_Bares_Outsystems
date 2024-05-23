@@ -1,7 +1,7 @@
 # App_Bares_Outsystems
 Desenvolvendo habilidades em programação e criação de apps
 
-# Roadmap de Criação de Aplicativo de Bares com Desenvolvimento de Scrum e escrita no OutSystems
+# Roadmap de Criação de Aplicativo de Bares e Desenvolvimento de Scrum e Programação no OutSystems
 
 ## Fase de Concepção
 - **Definição de Requisitos**: Identificar as necessidades do aplicativo, como controle de comandas, pedidos e métodos de pagamento.
